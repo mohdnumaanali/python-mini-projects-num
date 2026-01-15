@@ -1,0 +1,2 @@
+# python-mini-projects-num
+# Python Mini Projects  This repository contains a collection of beginner-friendly Python projects built to practice core programming concepts.  ## Projects Included - ATM Machine Simulation - Student Grade System - Calculator - Number Guessing Game - Student Management System  ## Skills Used - Python - Loops & Conditions - Functions - File Handling (basic) - Problem Solving  ## Purpose These projects were built as part of my learning journey to strengthen my programming fundamentals and prepare for advanced development in AI/ML.
